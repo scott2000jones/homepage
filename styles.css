@@ -102,6 +102,9 @@ body {
     overflow-y: scroll;
     height: 80%;
     vertical-align: top;
+    
+    scrollbar-width: thin;
+    scrollbar-color: #2e3440 #3b4252
 }
 .bookmark-title {
     font-size: 1.1rem;
